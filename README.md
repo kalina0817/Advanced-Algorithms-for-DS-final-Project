@@ -15,7 +15,7 @@ This repository is designed as an AI decision-support workflow, not only a model
 
 ## Repository Preview
 
-![Repository Preview](artifacts/repository_preview.png)
+![Repository Preview](artifacts/repository_preview.svg)
 
 ## Repository Structure
 - `notebooks/` Jupyter notebooks
